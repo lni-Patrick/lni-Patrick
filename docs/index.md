@@ -31,11 +31,11 @@ Syntax highlighted code block
 
 ### Tentang Patrick
 ```markdown
-_-Siswa biasa_
-_-Kehidupan biasa_
-_-Tidak pintar atau bodo_
-_-Tidak keren_
-_-Orangnya biasa aja_
+-Siswa biasa
+-Kehidupan biasa
+-Tidak pintar atau bodo
+-Tidak keren
+-Orangnya biasa aja
 ```
 ### Support or Contact
 
