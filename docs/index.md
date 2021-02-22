@@ -4,9 +4,9 @@
 
 *Kalau kamu nemu bug disource code patrick bisa chat ig patrick* [Instagram](https://instagram.com/galonnya.bang)
 
-### Nope
+### Note
 
-a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+uang itu penting usaha tidak akan menghianati hasil
 
 ```markdown
 Syntax highlighted code block
