@@ -40,5 +40,5 @@ Syntax highlighted code block
 ### Support or Contact
 
 Terdapat **Bug** disini? Silahkan chat [WhatsApp](https://wa.me/62881023315543)
-Support Patrick dengan menggunakan sc github patrick [Github](https://github.com/lni-patrick)
+Support Patrick dengan menggunakan sc [Github](https://github.com/lni-patrick) patrick
 
