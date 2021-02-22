@@ -5,9 +5,9 @@
 *Kalau kamu nemu bug disource code patrick bisa chat ig patrick* [Instagram](https://instagram.com/galonnya.bang)
 
 ### Note
-
+```markdown
 uang itu penting usaha tidak akan menghianati hasil
-
+```
 ```markdown
 Syntax highlighted code block
 
