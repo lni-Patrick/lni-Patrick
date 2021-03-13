@@ -14,6 +14,6 @@
 ### Chat Me or Follow me 😁💝
 
 * [<img alt="lni-patrick's Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <b>Github</b>](https://github.com/lni-patrick)<br/><br>
-* [<img alt="lni-patrick's Instagram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <b>Instagram</b>](https://Instagram.com/galonnya.bang)<br/>
+* [<img alt="lni-patrick's Instagram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <b>Instagram</b>](https://Instagram.com/xiangfei_shi)<br/>
 ```
 ```
